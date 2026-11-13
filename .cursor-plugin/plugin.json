@@ -1,0 +1,17 @@
+{
+  "name": "onhand",
+  "displayName": "Onhand",
+  "version": "1.0.0",
+  "description": "Helps Cursor answer what local businesses have and when they are open. Search shops, items, services, hours and contact details, and with sign-in, prepare bookings, checkout handoffs and quote requests.",
+  "author": {
+    "name": "Onhand (Pathlight Ventures)",
+    "email": "help@askonhand.com"
+  },
+  "homepage": "https://askonhand.com",
+  "repository": "https://github.com/Pathlight-Ventures/onhand-cursor-plugin",
+  "license": "MIT",
+  "logo": "https://askonhand.com/logo.png",
+  "keywords": ["local-business", "local-search", "hours", "bookings", "mcp", "dallas"],
+  "category": "integrations",
+  "mcpServers": "./.mcp.json"
+}
