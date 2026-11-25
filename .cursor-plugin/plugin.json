@@ -2,7 +2,7 @@
   "name": "onhand",
   "displayName": "Onhand",
   "version": "1.0.0",
-  "description": "Helps Cursor answer what local businesses have and when they are open. Search shops, items, services, hours and contact details, and with sign-in, prepare bookings, checkout handoffs and quote requests.",
+  "description": "MCP server for local shop inventory, starting in Dallas. Check stock from Square, Shopify POS, or a CSV. Search is read-only; sign-in is required for bookings and handoffs.",
   "author": {
     "name": "Onhand (Pathlight Ventures)",
     "email": "help@askonhand.com"

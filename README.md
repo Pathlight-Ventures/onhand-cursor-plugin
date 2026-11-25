@@ -1,9 +1,6 @@
 # Onhand for Cursor
 
-Onhand helps AI assistants answer what local businesses have and when they are open, starting in Dallas.
-With this plugin, Cursor can find shops by name, category or area, look up items and services, hours and
-contact details, read a shop's approved FAQs and verified reviews, and, after you sign in, prepare and
-confirm bookings, checkout handoffs and quote requests.
+MCP server for local shop inventory, starting in Dallas. Check stock from Square, Shopify POS, or a CSV. Search is read-only; sign-in is required for bookings and handoffs.
 
 Onhand is operated by Pathlight Ventures in Texas. More on askonhand.com: [guides](https://askonhand.com/guides).
 
